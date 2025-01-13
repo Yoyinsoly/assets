@@ -1,0 +1,36 @@
+{
+    "name": "WHATIF Rewards",
+    "website": "https://rewardsinwhatif.app//",
+    "description": "WHATIF Rewards (WHATIFR) is a community-driven ERC-20 token built on the Ethereum blockchain, with a total supply of 420 billion tokens. Designed to reward early adopters and incentivize participation, WHATIFR offers innovative staking opportunities, high-yield rewards, and long-term value through transparent and decentralized tokenomics. With liquidity locked and a focus on fairness, WHATIFR aims to empower its holders while fostering a robust, trust-driven ecosystem.",
+    "explorer": "https://etherscan.io/token/0x0659eBB21f26C209a5324c59165Aaf15f0A488b1",
+    "type": "ERC20",
+    "symbol": "WHATIFR",
+    "decimals": 10,
+    "status": "active",
+    "id": "0x0659eBB21f26C209a5324c59165Aaf15f0A488b1",
+    "tags": [
+        "MEME"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/yoyinsoly"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/JorgeThondike"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/Rewards_in_WHATIF"
+        },
+        {
+            "name": "facebook",
+            "url": "https://www.facebook.com/profile.php?id=61558433263890"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/R9CPWqnnp2"
+        }
+    ]
+}
